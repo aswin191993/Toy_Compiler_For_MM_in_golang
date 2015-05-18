@@ -3,7 +3,7 @@ Both Scaning code and doing operations from left to right
 
 
 
-##Machine Codes
+##Compiler code
 - code: "(b+3)*a"
 - ld r0,b
 - ld r1,3
